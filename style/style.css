@@ -1,0 +1,157 @@
+body {
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #171329;
+}
+
+/* body * {
+    box-sizing: border-box;
+} */
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left {
+    width: 50vw;    
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.left h1 {
+    font-size: 3vw;
+    margin: 20px;
+    color: rgba(184, 114, 250, 0.897);
+    text-align: center;
+}
+
+.left img {
+    width: 35vw
+}
+
+.right {
+    width: 50vw;    
+    height: 100vh;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+}
+
+.right .card-login {
+    background-color: #241d3f; 
+    width: 60%;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 10px 40px;
+}
+
+.right .card-login h2 {
+    color: rgba(189, 124, 250, 0.829);
+    font-weight: 800;
+    margin: 0;
+}
+
+.textfield {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 10px 0;
+}    
+
+.textfield label {
+    margin-bottom: 10px;
+    color: rgb(181, 176, 182);
+    font-weight: 300;
+}
+
+.textfield input {
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;   
+    background-color: rgb(63, 51, 90); 
+    color: rgb(200, 202, 204);
+    font-size: 12pt;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 10px 40px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.botaologin {
+    width: 100%;
+    padding: 16px 0;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #171329;
+    background-color: rgba(184, 115, 248, 0.829);
+    cursor: pointer;
+    box-shadow: rgba(149, 42, 248, 0.829) 0px 10px 40px -12px;
+}
+
+.botaologin:hover {
+    background-color: rgba(149, 42, 248, 0.829);
+}
+
+@media only screen and (max-width:950px){
+    .card-login {
+        width: 85%;
+    }    
+}
+
+@media only screen and (max-width: 600px) {
+    .main {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .left h1 {
+        display: none;
+    }
+
+    .left {
+        width: 100%;
+        height: auto;
+    } 
+
+    .right {
+        width: 100%;
+        height: auto
+    }
+   
+    .left img {
+        width: 60vw;
+    }
+    
+    .card-login {
+        height: 50vh;
+    }
+
+    .card-login h2 {
+       font-size: 7vw;
+    }
+
+    .textfield {
+        margin: 5px;
+    }
+
+    .botaologin {
+        margin: 15px;
+    }
+}
