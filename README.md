@@ -22,13 +22,13 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/Pag
 </tr>
 </table>
 
-<!-- <h2> Layout: </h2>
+<h2> Layout: </h2>
 
 - Layout Desktop
-<img align="center" alt="Desktop" height="350" width="350" src="https://user-images.githubusercontent.com/100887684/158921453-cc0570b8-8d90-4773-9bae-b32ae39ccfb4.PNG">
+<img align="center" alt="Desktop" height="350" width="700" src="https://user-images.githubusercontent.com/100887684/159774267-657e9e91-3190-4f4a-9322-34fc7e96a5ba.PNG">
 
 - Layout Mobile
-<img align="center" alt="Desktop" height="350" width="150" src="https://user-images.githubusercontent.com/100887684/158921542-2d307600-012a-4a5a-b8f6-391bd7b05f9c.PNG"> -->
+<img align="center" alt="Desktop" height="350" width="195" src="https://user-images.githubusercontent.com/100887684/159781932-ca337add-b984-4e19-bc8f-e1f5631c1f44.PNG">
 
 
 Este foi meu segundo projeto. 💜 <br>
