@@ -1,4 +1,4 @@
-# Página de login com tema dark.
+# Página de login com tema dark. 🌑
 
 <h2> Descrição: </h2>
 
