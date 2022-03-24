@@ -31,5 +31,5 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/Pag
 <img align="center" alt="Desktop" height="350" width="195" src="https://user-images.githubusercontent.com/100887684/159781932-ca337add-b984-4e19-bc8f-e1f5631c1f44.PNG">
 
 
-Este foi meu segundo projeto. 💛 <br>
+Este foi meu segundo projeto. 💜 <br>
 Dev. Front-end❕
