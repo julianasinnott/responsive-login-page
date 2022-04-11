@@ -7,7 +7,7 @@ Projeto de página de login com tema dark.
 - Estrutura HTML
 - Estilização com CSS puro, design desktop e mobile responsivo
 
-Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/PageLogin/). Este site foi construído usando [GitHub Pages](https://pages.github.com/).
+Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/responsive-login-page/). Este site foi construído usando [GitHub Pages](https://pages.github.com/).
 
 <h2> Linguagens utilizadas: </h2>
 
